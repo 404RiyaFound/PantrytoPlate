@@ -11,6 +11,28 @@
 3. **Recipe Dashboard:** Users can view their generated recipes, save them to their favorites, and delete them.
 4. **Authentication:** Secure Email/Password login and signup protecting user-specific data.
 
+
+<img width="1456" height="795" alt="Screenshot 2026-04-20 at 2 34 28 AM" src="https://github.com/user-attachments/assets/5ad89db2-0e40-4770-ab3b-b1961acf897a" />
+
+
+
+
+<img width="1465" height="781" alt="Screenshot 2026-04-20 at 2 34 39 AM" src="https://github.com/user-attachments/assets/8cf1dce6-d51c-4be2-8a30-ef7edaa93ab7" />
+
+
+
+<img width="1469" height="799" alt="Screenshot 2026-04-20 at 2 35 28 AM" src="https://github.com/user-attachments/assets/d4796e62-6855-4ac3-83a4-ab1f2bb48405" />
+
+
+
+
+<img width="778" height="731" alt="Screenshot 2026-04-20 at 2 34 58 AM" src="https://github.com/user-attachments/assets/9ef837ea-0098-4c8c-8963-5dc2e6acea3a" />
+
+
+<img width="775" height="737" alt="Screenshot 2026-04-20 at 2 35 13 AM" src="https://github.com/user-attachments/assets/b270832e-a68a-4655-90e0-028515335c17" />
+
+
+
 ## 🛠️ Tech Stack
 *   **Frontend:** React (Vite), Tailwind CSS, Framer Motion (animations), Lucide React (icons)
 *   **Backend:** Firebase (Authentication, Firestore Database)
